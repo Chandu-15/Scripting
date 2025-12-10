@@ -1,3 +1,3 @@
 #!/bin/bash
-date = $(date)
-echo "executed timestamp:$date"
+x=$(date)
+echo " executed timestamp: $x "
