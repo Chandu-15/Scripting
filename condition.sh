@@ -1,5 +1,5 @@
 #!/bin/bash
-n =$1
+n=$1
 if [ $n -lt 10 ] ; then
   echo "Given Number $n is less than 10"
 elif [ $n -gt 10 ] ; then
