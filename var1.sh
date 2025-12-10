@@ -1,6 +1,6 @@
 #!/bin/bash
-n1=chandu
-n2=ram
+n1=$1
+n2=$2
 
 echo "$n1 : Hi , How are you $n2?"
 echo "$n2 : I am fine...how is your healing going on $n1?"
